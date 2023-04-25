@@ -59,7 +59,7 @@ nav a:hover, .active{
 }
 /* Homepage */
 .b1{
-  background: url(Backgrounds/succulent.jpg) no-repeat center fixed;
+  background: url(succulent.jpg) no-repeat center fixed;
   background-size: cover;
   margin: 0;
   font-family: Arial, Helvetica, Sans-serif;
@@ -85,7 +85,7 @@ nav a:hover, .active{
 }
 /* Contact */
 .b2{
-  background: url(Backgrounds/cactus.jpg) no-repeat center fixed;
+  background: url(cactus.jpg) no-repeat center fixed;
   background-size: cover;
   margin: 0;
   font-family: Arial, Helvetica, Sans-serif;
@@ -111,7 +111,7 @@ th, td{
 }
 /* Projects */
 .b3{
-  background: url(Backgrounds/flowers.jpg) no-repeat center fixed;
+  background: url(flowers.jpg) no-repeat center fixed;
   background-size: cover;
   margin: 0;
   font-family: Arial, Helvetica, Sans-serif;
@@ -138,7 +138,7 @@ th, td{
 }
 /* About */
 .b4{
-  background: url(Backgrounds/daisy.jpg) no-repeat center fixed;
+  background: url(daisy.jpg) no-repeat center fixed;
   background-size: cover;
   margin: 0;
   font-family: Arial, Helvetica, Sans-serif;
@@ -160,7 +160,7 @@ th, td{
 }
 /* Resume */
 .b5{
-  background: url(Backgrounds/vase.jpg) no-repeat center fixed;
+  background: url(vase.jpg) no-repeat center fixed;
   background-size: cover;
   margin: 0;
   font-family: Arial, Helvetica, Sans-serif;
